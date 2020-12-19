@@ -13,4 +13,3 @@ https://cdn.jsdelivr.net/gh/Auto-SK/CDN/Typecho/
 ## Static
 
 https://cdn.jsdelivr.net/gh/Auto-SK/CDN/Typecho/Static/
-
