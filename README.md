@@ -2,14 +2,14 @@
 
 Content Delivery Network.
 
-## Markdown
+## Articles
 
-https://cdn.jsdelivr.net/gh/Auto-SK/CDN/Markdown/
+https://cdn.jsdelivr.net/gh/Auto-SK/CDN/Articles/
 
-## Typecho
+## Images
 
-https://cdn.jsdelivr.net/gh/Auto-SK/CDN/Typecho/
+https://cdn.jsdelivr.net/gh/Auto-SK/CDN/Images/
 
-## Static
+## Sources
 
-https://cdn.jsdelivr.net/gh/Auto-SK/CDN/Typecho/Static/
+https://cdn.jsdelivr.net/gh/Auto-SK/CDN/Typecho/Sources/
