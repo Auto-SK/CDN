@@ -12,4 +12,8 @@ https://cdn.jsdelivr.net/gh/Auto-SK/CDN/Images/
 
 ## Sources
 
-https://cdn.jsdelivr.net/gh/Auto-SK/CDN/Typecho/Sources/
+https://cdn.jsdelivr.net/gh/Auto-SK/CDN/Sources/
+
+## Wallpapers
+
+https://cdn.jsdelivr.net/gh/Auto-SK/CDN/Wallpapers/
